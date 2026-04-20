@@ -12,6 +12,7 @@
 #ifndef MINIRT_H
 #define MINIRT_H
 #include <stdio.h>
+#include <math.h>
 #include <unistd.h>
 #include "./includes/minilibx-linux/mlx.h"
 
